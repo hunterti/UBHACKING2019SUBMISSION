@@ -1,0 +1,11 @@
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\bin\Debug\netcoreapp3.0\Debugger_Tool.exe
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\bin\Debug\netcoreapp3.0\Debugger_Tool.deps.json
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\bin\Debug\netcoreapp3.0\Debugger_Tool.runtimeconfig.json
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\bin\Debug\netcoreapp3.0\Debugger_Tool.runtimeconfig.dev.json
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\bin\Debug\netcoreapp3.0\Debugger_Tool.dll
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\bin\Debug\netcoreapp3.0\Debugger_Tool.pdb
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\obj\Debug\netcoreapp3.0\Debugger_Tool.csprojAssemblyReference.cache
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\obj\Debug\netcoreapp3.0\Debugger_Tool.AssemblyInfoInputs.cache
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\obj\Debug\netcoreapp3.0\Debugger_Tool.AssemblyInfo.cs
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\obj\Debug\netcoreapp3.0\Debugger_Tool.dll
+C:\Users\htint\Desktop\UBHacking2019\Debugger_Tool\obj\Debug\netcoreapp3.0\Debugger_Tool.pdb
